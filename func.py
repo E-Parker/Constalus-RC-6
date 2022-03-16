@@ -1,4 +1,4 @@
-# This program was writen by Ethan Parker on 11,29,2921
+# This program was writen by E.Parker on 11,29,2921
 # This program contains various utilities used in loading/rendering 3d objects
 import math, pygame, time, os
 from pygame.locals import *
