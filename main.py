@@ -1,4 +1,4 @@
-#This program was writen by Ethan Parker on 11.12.2021
+#This program was writen by E.Parker on 11.12.2021
 #Constalus Engine version 3.5.3
 
 #if pygame.gfxdraw no longer works, please replace any instance of render type 4 with 0.
